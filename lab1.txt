@@ -1,0 +1,26 @@
+1. Środowisko programistyczne:
+
+- php
+
+2. Wymagania systemowe:
+
+- brak (?)
+
+3. Użytkownicy:
+
+- bibliotekarka
+- księgowa
+
+3. Funkcjonalności:
+
+- bibliotekarka może dodawać pozycje do bazy książek;
+- bibliotekarka może wypożyczać książki;
+- bibliotekarka może dodawać dane dotyczące książki dla lepszego wyszukiwania pozycji;
+- bibliotekarka może korzystać z opcji wyszukiwania pozycji książki w bibliotece;
+- bibliotekarka może sprawdzać, czy książka jest dostępna;
+- bibliotekarka może sprawdzać, kiedy książka będzie dostępna;
+- bibliotekarka może zgłosić zapotrzebowanie na książkę;
+- bibliotekarka może zarezerwować wypożyczającemu pozycję;
+- sekretarka może dodawać karty użytkowników;
+- sekretarka może wystawiać powiadomienia/wezwania do zapłaty za przetrzymane książki;
+- sekretarka może przyjmować do realizacji zapotrzebowanie na książki.
