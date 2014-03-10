@@ -1,26 +1,26 @@
-1. Środowisko programistyczne:
+1. Nazwa:
 
-- php
+- System zarządzania biblioteką
 
-2. Wymagania systemowe:
+2. Opis:
 
-- brak (?)
+- system ma wspomagać proces kierowania biblioteką, tj. wypożyczanie książek, wystawianie powiadomień do zapłaty.
 
 3. Użytkownicy:
 
 - bibliotekarka
-- księgowa
+- kierownik (nazwa do przemyślenia)
 
 3. Funkcjonalności:
 
-- bibliotekarka może dodawać pozycje do bazy książek;
-- bibliotekarka może wypożyczać książki;
-- bibliotekarka może dodawać dane dotyczące książki dla lepszego wyszukiwania pozycji;
-- bibliotekarka może korzystać z opcji wyszukiwania pozycji książki w bibliotece;
-- bibliotekarka może sprawdzać, czy książka jest dostępna;
-- bibliotekarka może sprawdzać, kiedy książka będzie dostępna;
-- bibliotekarka może zgłosić zapotrzebowanie na książkę;
-- bibliotekarka może zarezerwować wypożyczającemu pozycję;
-- sekretarka może dodawać karty użytkowników;
-- sekretarka może wystawiać powiadomienia/wezwania do zapłaty za przetrzymane książki;
-- sekretarka może przyjmować do realizacji zapotrzebowanie na książki.
+Jako bibliotekarka mogę dodawać pozycje do bazy książek;
+Jako bibliotekarka mogę wypożyczać książki;
+Jako bibliotekarka mogę dodawać dane dotyczące książki dla lepszego wyszukiwania pozycji;
+Jako bibliotekarka mogę korzystać z opcji wyszukiwania pozycji książki w bibliotece;
+Jako bibliotekarka mogę sprawdzać, czy książka jest dostępna;
+Jako bibliotekarka mogę sprawdzać, kiedy książka będzie dostępna;
+Jako bibliotekarka mogę zgłosić zapotrzebowanie na książkę;
+Jako bibliotekarka mogę zarezerwować wypożyczającemu pozycję;
+Jako kierownik mogę dodawać karty użytkowników;
+Jako kierownik mogę wystawiać powiadomienia/wezwania do zapłaty za przetrzymane książki;
+Jako kierownik mogę przyjmować do realizacji zapotrzebowanie na książki.
