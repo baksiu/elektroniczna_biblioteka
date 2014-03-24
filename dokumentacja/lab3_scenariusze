@@ -66,6 +66,24 @@ V. SG - wypożyczenie książki:
     2. Użytkownik wypełnia pole Id_czytelnika;
     3. Użytkownik wypełnia pole Okres;
     4. Użytkownik wciska przycisk WYPOŻYCZ;
-    5. 
+    5. System weryfikuje dane;
+    6. System modyfikuje bazy danych;
+    7. System wyświetla komunikat z potwierdzeniem;
     
+    SA - błędny numer książki:
     
+    1A. Użytkownik wpisuje błędny Nr_ksiazki;
+    6A. System nie modyfikuje baz danych;
+    7A. System wyświetla komunikat błędu;
+    
+    SA - błędny numer czytelnika:
+    
+    1B. Użytkownik wpisuje błędny Id_czytelnika;
+    6B. System nie modyfikuje baz danych;
+    7B. System wyświetla komunikat błędu;
+    
+    SA - błędny okres:
+    
+    1B. Użytkownik wpisuje błędny Okres;
+    6B. System nie modyfikuje baz danych;
+    7B. System wyświetla komunikat błędu;
