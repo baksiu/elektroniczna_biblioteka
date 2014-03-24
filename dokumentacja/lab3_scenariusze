@@ -42,3 +42,30 @@ III. SG - wyszukiwanie w bazie danych - zaawansowane:
     
     3A. Użytkownik nie wybiera żadnego filtru;
     6A. System wyświetla komunikat błędu;
+    
+IV. SG - drukowanie powiadomień:
+    
+    1. Użytkownik zaznacza checkboksy czytelników;
+    2. Użytkownik naciska przycisk DRUKUJ;
+    3. System generuje dokumenty do wydruku;
+    4. System wyświetla komunikat poprawnego wydruku;
+    
+    SA - brak wybranych czytelników:
+    
+    1A. Użytkownik nie zaznacza żadnego checkboksa użytkownika;
+    4A. System wyświetla komunikat błędu;
+    
+    SA - użytkownik wybiera czytelnika, który już opłacił zadłużenie:
+    
+    1B. Użytkownik wybiera czytelnika z opłaconym zadłużeniem;
+    4B. System wyświetla komunikat błędu;
+    
+V. SG - wypożyczenie książki:
+    
+    1. Użytkownik wypełnia pole Nr_ksiazki;
+    2. Użytkownik wypełnia pole Id_czytelnika;
+    3. Użytkownik wypełnia pole Okres;
+    4. Użytkownik wciska przycisk WYPOŻYCZ;
+    5. 
+    
+    
