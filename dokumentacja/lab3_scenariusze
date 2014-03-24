@@ -1,0 +1,44 @@
+I. SG - logowanie:
+
+    1. Użytkownik podaje login;
+    2. Użytkownik podaje hasło;
+    3. Użytkownik wciska przycisk ZALOGUJ;
+    4. System przeprowadza weryfikację;
+    5. System przenosi użytkowania na ekran główny;
+  
+  SA - błąd hasła:
+  
+    2A. Użytkownik wprowadza błędne hasło;
+    5A. System wyświetla komunikat błędu;
+  
+  SA - błąd loginu:
+  
+    1B. Użytkownik wprowadza błędny login;
+    5B. System wyświetla komunikat błędu;
+    
+II. SG - Wyszukiwanie w bazie danych:
+
+    1. Użytkownik wpisuje hasło do wyszukania;
+    2. Użytkownik wybiera kategorię wyszukiwania;
+    3. Użytkownik wciska przycisk WYSZUKAJ;
+    4. System przeszukuje bazy danych;
+    5. System wyświetla listę wyszukanych pozycji;
+    
+    SA - użytkownik nie wybrał kategorii:
+    
+    2A. Użytkownik nie wybiera kategorii;
+    5A. System wyświetla komunikat błędu;
+    
+III. SG - wyszukiwanie w bazie danych - zaawansowane:
+    
+    1. Użytkownik naciska przycisk ZAAWANSOWANE;
+    2. Użytkownik wpisuje zapytanie;
+    3. Użytkownik wybiera opcje filtrowania;
+    4. Użytkownik wciska przycisk WYSZUKAJ;
+    5. System przeszukuje bazy danych;
+    6. System wyświetla listę wyszukanych pozycji;
+    
+    SA - użytkownik nie wybrał żadnego filtru:
+    
+    3A. Użytkownik nie wybiera żadnego filtru;
+    6A. System wyświetla komunikat błędu;
