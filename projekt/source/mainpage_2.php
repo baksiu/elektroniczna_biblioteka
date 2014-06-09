@@ -18,11 +18,8 @@
 <form method="post" action="logout.php">
 <input type=submit name=logout value="Wyloguj">
 </form>
-<form method="post" action="show_books.php">
-<input type=submit name=logout value="Pokaz liste ksiazek">
-</form>
-<form method="post" action="add_book.php">
-<input type=submit name=logout value="Dodaj ksiazke">
+<form method="post" action="add_reader.php">
+<input type=submit name=logout value="Dodaj czytelnika">
 </form>
 </body>
 </html>
