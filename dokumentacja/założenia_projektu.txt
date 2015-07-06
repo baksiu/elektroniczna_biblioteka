@@ -1,4 +1,4 @@
-1. Nazwa:
+﻿1. Nazwa:
 
 - System zarządzania biblioteką
 
@@ -9,7 +9,7 @@
 3. Użytkownicy:
 
 - bibliotekarka
-- kierownik (nazwa do przemyślenia)
+- kierownik
 
 3. Funkcjonalności:
 
