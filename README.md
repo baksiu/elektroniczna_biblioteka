@@ -1,4 +1,3 @@
-inzynieria_lab
-==============
+# Elektroniczny system zarzadzania biblioteka
 
-Projekt na laboratoria Inżynierii oprogramowania
+Repozytorium zawiera projekt i implementacje elektronicznego systemu zarzadzania biblioteka. System zosta zaimplementowany z wykorzystaniem technologii PHP oraz bazy danych w standardzie MySQL. 
